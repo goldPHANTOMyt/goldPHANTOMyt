@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @goldPHANTOMyt
 - 👀 I’m interested in ... Gaming,Programming and learning
-- 🌱 I’m currently learning ... Python
+- 🌱 I’m currently learning ... C#
 - 💞️ I’m looking to collaborate on ... C++ and maybe Java
 - 📫 How to reach me ...
 
